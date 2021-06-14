@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/*Header Section*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,9 @@ header a {
 header p {
     font-size: 16px;
 }
+/*Header Section End*/
 
+/*Hero Section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +60,9 @@ header p {
     background-size: cover;
     background-position: center;
 }
+/*Hero Section End*/
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/*Side Banner*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +121,26 @@ header p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*Side Banner End*/
 
+
+/*Site Content*/
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +195,9 @@ header p {
     font-size: 36px;
 }
 
+/*Site Content End*/
+
+/*Footer*/
 .footer {
     padding: 30px;
     clear: both;
