@@ -6,4 +6,4 @@ https://ronnieve23.github.io/Horiseon/
 
 # Website Screenshot
 
-![Web Screenshot](/assets/images/Website-screenshot.png)
+![Web Screenshot](./assets/images/Website-screenshot.png)
