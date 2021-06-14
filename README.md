@@ -1,5 +1,5 @@
 # Horiseon
-This repository contains refactored code for the mock website Horiseon; Rutgers Bootcamp's first challenge homework!
+This repository contains refactored code for the website Horiseon; Rutgers Bootcamp's first challenge homework!
 
 # Visit The Refactored Website Here!
 https://ronnieve23.github.io/Horiseon/
