@@ -5,4 +5,4 @@ This repository contains refactored code for the mock website Horiseon; Rugtgers
 https://ronnieve23.github.io/Horiseon/
 
 # Website Screenshot
-![](2021-06-14-16-33-55.png)
+![](/assets/images/website-screenshot.png)
